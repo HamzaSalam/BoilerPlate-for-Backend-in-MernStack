@@ -1,0 +1,9 @@
+# 1 step npm init -y
+
+# 2 step npm i express mongoose jsonwebtoken cors bcrypt cookie-parser dotenv
+
+# 3 change module es5 to es6 in package.json file("type": "module",)
+
+# change entry point : index.js to server.js in package.json file
+
+# to run server npx nodemon
